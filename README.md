@@ -17,5 +17,8 @@ An interactive financial dashboard analyzing the performance of publicly listed 
 - Power Query
 
 ## Interactive Dashboard
+
+Explore the interactive financial dashboard on Tableau Public:
+
 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/william.manggala/viz/IndonesiaPharmaceuticalIndustry-FinancialPerformance/Dashboard1)
   
